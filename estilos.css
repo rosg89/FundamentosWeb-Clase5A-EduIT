@@ -1,0 +1,21 @@
+.primero {
+    display: flex;
+    width: auto;
+}
+
+div {
+    background-color: red;
+    width: 25%;
+}
+
+#verde {
+    background-color: green;
+    width: 50%;
+}
+
+
+.seg {
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
